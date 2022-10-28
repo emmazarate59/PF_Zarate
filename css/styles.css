@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+
+.navbar-nav .nav-link.active {
+    color: orange;
+}
+
+.h2_index {
+    margin: 80px;
+    color: orange;
+
+}
+
+.h2_servicios {
+    margin: 80px;
+    color: orange;
+
+}
+
+.section_nosotros {
+    margin-top: 80px;
+    background-color: whitesmoke;
+
+}
+
+.card {
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    transition: all 400ms ease;
+
+}
+
+.card:hover {
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3%);
+}
+
+.h2_nosotros {
+    margin: 80px;
+    color: orange;
+}
+
+.list-group-item {
+    background-color: rgba(211, 125, 27, 0.514);
+}
+
+
+
+
+
+
+.footer {
+    background-color: rgba(211, 125, 27, 0.514);
