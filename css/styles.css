@@ -26,7 +26,7 @@
 }
 
 .card:hover {
-  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 5px 5px 20px rgba(206, 119, 19, 0.778);
   transform: translateY(-3%);
 }
 
@@ -39,6 +39,14 @@
   padding: 0;
   box-sizing: border-box;
   transition: 0.5s;
+}
+
+.tipografia {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.body {
+  background-image: url(../img/fondo.png);
 }
 
 /*# sourceMappingURL=styles.css.map */
